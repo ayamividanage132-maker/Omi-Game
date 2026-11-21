@@ -30,7 +30,4 @@ struct Card
 	enum Suit suit;
 };
 
-// Function declaration
-void displayCard(struct Card card);
-
 #endif
